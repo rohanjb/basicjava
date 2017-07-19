@@ -1,0 +1,7 @@
+
+In the second class of programming and github, we learned about bits, and bytes, the memory in the CPU(central processing unit), and in the hard disc. We reviewed more about the binary system and how that is used in the computer. We also got to check  which os(operating system) our computer was. We got to use the Java eclipse app to learn some coding and programming. We learned that we can put an input in one side in our Hello World project and we can get an output on the other side showing what we wanted to see be typing commands for the computer to follow. 
+
+	We learned the conversion of bits and bytes and how many bits are in bytes. We checked how much capacity our computer has and if that is good, ok, or if we need to stop using our computers. I saw that my computer had good memory and storage left for future use. This means that I probably using my computer wisely or I just have a lot of storage in it the start out with. To show how the computer organizes the commands we gave it, we made folders in the File Explorer. We made different files to organize different subjects. Then we went to command prompt and learned about what md(make directory), and cd(change directory) ment. This let us know how to let the computer know in which perspective it should be looking with.
+
+	
+	
