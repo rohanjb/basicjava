@@ -1,0 +1,13 @@
+
+public class car {
+    
+	class Car{
+		String();
+		int company;
+		int model;
+		int type;
+		int color;
+		int speed;
+		
+	}
+}
