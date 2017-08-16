@@ -1,0 +1,21 @@
+import java.util.Scanner;
+public class Applcation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x=1;
+		int i=1;
+		
+        Scanner scanner = new Scanner(System.in);
+		System.out.print("enter number of laps: ");
+
+        i = scanner.nextInt();
+		
+		
+		for(x=1; i<=1; i--, x++) {
+			System.out.println("enter time for lap ");
+  
+        }
+	}
+
+}

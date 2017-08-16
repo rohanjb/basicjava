@@ -1,0 +1,26 @@
+import java.util.Scanner;
+public class Applcation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x=1;
+		int i=1;
+		int y;
+		int n=0;
+		
+        Scanner scanner = new Scanner(System.in);
+		System.out.print("enter number of laps: ");
+
+        i = scanner.nextInt();
+        
+		
+		for(x=1; i>=1; i--, x++) {
+			System.out.print("enter time for lap: " +x + "rounded to nearest minute");
+            y = scanner.nextInt();
+            n = y+n;
+            
+        }
+		System.out.println("total time for all laps in minutes is: " +n);
+	}
+
+}
