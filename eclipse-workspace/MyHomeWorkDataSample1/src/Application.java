@@ -13,13 +13,13 @@ public class Application {
         car1.price = 80000;
         
         car car2 = new car();
-        car2.name = "Reaper";
-        car2.company = "Chevrolet";
-        car2.model = "Corvette";
-        car2.type = "sports";
-        car2.color = "red";
-        car2.speed = 207;
-        car2.price = 80000;
+        car2.name = "Bob";
+        car2.company = "Toyota";
+        car2.model = "Sonoma";
+        car2.type = "truck";
+        car2.color = "white";
+        car2.speed = 190;
+        car2.price = 30000;
         
         System.out.println(car1.company + " model is:" + car1.model);
         System.out.println(car2.company + " model is:" + car2.model);
